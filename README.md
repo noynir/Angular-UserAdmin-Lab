@@ -136,8 +136,8 @@ In This project we will build step by step a User Admin angular application.
 ### Step 9 - Pipes
 
   - Create a new Pipe named `ellipsis.pipe`.
-  - The `ellipsis.pipe` should to text ellipsis on the input value. And should receive a `count` parameter for how many characters are allowed.
-  - Use the `ellpisis.pipe` in the user items inside the users list.
+  - The `ellipsis.pipe` should do text ellipsis on the input value. And should receive a `count` parameter for how many characters are allowed.
+  - Use the `ellipisis.pipe` in the user items inside the users list.
   - Change The `users-container.component` users list bindings to an observable and use the async pipe on the input binding of the `user-list.component`.
 
 ### Step 10 - Forms
